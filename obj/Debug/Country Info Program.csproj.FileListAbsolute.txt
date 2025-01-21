@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\bin\Debug\Country Info Program.exe.config
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\bin\Debug\Country Info Program.exe
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\bin\Debug\Country Info Program.pdb
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\obj\Debug\Country Info Program.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\obj\Debug\Country Info Program.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\obj\Debug\Country Info Program.exe
+C:\Users\ABC\source\repos\Country Info Program\Country Info Program\obj\Debug\Country Info Program.pdb

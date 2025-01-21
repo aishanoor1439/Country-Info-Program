@@ -1,0 +1,7 @@
+Country Name: Pakistan
+Country Code (ISO): PK
+Population: 248000000
+Capital City: Islamabad
+Official Languages: Urdu, English
+GDP: 376 billion USD
+Time Zone: UTC+5
